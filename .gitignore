@@ -10,4 +10,4 @@ packer_cache/
 ## ignore crash log files
 crash.log
 
-vsphere.pkvars.hcl
+vsphere.pkrvars.hcl
