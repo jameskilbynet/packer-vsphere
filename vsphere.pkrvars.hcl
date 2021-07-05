@@ -28,3 +28,5 @@ vcenter_content_library         = "sfo-w01-lib01"
 
 iso_datastore = "[sfo-w01-cl01-ds-nfs01] " # The [SPACE] is required.
 iso_path      = "iso"
+
+templates
